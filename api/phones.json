@@ -1,0 +1,618 @@
+[
+  {
+    "id": "12123311",
+    "category": "phones",
+    "productId": "apple-iphone-15-pro-256GB-titanium",
+    "name": "Apple iPhone 15 Pro",
+    "screen": "6.7 Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 1299,
+    "priceMap": {
+      "256GB": 1299,
+      "512GB": 1499,
+      "1TB": 1699
+    },
+    "image": {
+      "titanium": "../../img/card/15_pro/ti.jpeg",
+      "blue": "../../img/card/card/15_pro/tb.webp"
+    },
+    "color": "titanium",
+    "colorsAvailable": ["titanium", "blue"],
+    "hex": {
+      "titanium": "#797982",
+      "blue": "#5B798E"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "titanium": [
+        "../../../../img/gallery/15_pro/titan/t-1.webp",
+        "../../../../img/gallery/15_pro/titan/t-2.webp",
+        "../../../../img/gallery/15_pro/titan/t-3.webp",
+        "../../../../img/gallery/15_pro/titan/t-4.webp"
+      ],
+      "blue": [
+        "../../../../img/gallery/15_pro/blue/tb-1.webp",
+        "../../../../img/gallery/15_pro/blue/tb-2.webp",
+        "../../../../img/gallery/15_pro/blue/tb-3.webp",
+        "../../../../img/gallery/15_pro/blue/tb-4.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A17 Pro chip",
+    "camera": "48MP Main | Ultra Wide | Telephoto",
+    "zoom": "Optical zoom range, Up to 10x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12111",
+    "category": "phones",
+    "productId": "apple-iphone-15-256GB-pink",
+    "name": "Apple iPhone 15",
+    "screen": "6.7 Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 1299,
+    "priceMap": {
+      "256GB": 1299,
+      "512GB": 1499,
+      "1TB": 1699
+    },
+    "image": {
+      "pink": "../../img/card/15/1.jpeg"
+    },
+    "color": "pink",
+    "colorsAvailable": ["pink"],
+    "hex": {
+      "pink": "#f8b7cb"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "pink": [
+        "../../../../img/gallery/15/pink/p1.webp",
+        "../../../../img/gallery/15/pink/p2.webp",
+        "../../../../img/gallery/15/pink/p3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A17 Pro chip",
+    "camera": "48MP Main | Ultra Wide | Telephoto",
+    "zoom": "Optical zoom range, Up to 10x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12112311",
+    "category": "phones",
+    "productId": "apple-iphone-14-256GB-purple",
+    "name": "Apple iPhone 14",
+    "screen": "6.7 Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 1299,
+    "priceMap": {
+      "256GB": 1299,
+      "512GB": 1499,
+      "1TB": 1699
+    },
+    "image": {
+      "purple": "../../img/card/14/p.webp"
+    },
+    "color": "purple",
+    "colorsAvailable": ["purple"],
+    "hex": {
+      "purple": "#7b8dff"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "purple": [
+        "../../../../img/gallery/14/purp-1.webp",
+        "../../../../img/gallery/14/purp-2.webp",
+        "../../../../img/gallery/14/purp-3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A17 Pro chip",
+    "camera": "48MP Main | Ultra Wide | Telephoto",
+    "zoom": "Optical zoom range, Up to 10x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "112313",
+    "category": "phones",
+    "productId": "apple-iphone-SE-256GB-black",
+    "name": "Apple iPhone 13",
+    "screen": "4.7 Retina HD",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 899,
+    "priceMap": {
+      "256GB": 899,
+      "512GB": 1099,
+      "1TB": 1299
+    },
+    "image": {
+      "black": "../../img/card/se/b.webp",
+      "white": "../../img/card/se/w.webp"
+    },
+    "color": "black",
+    "hex": {
+      "black": "#000",
+      "white": "#f2f2f2"
+    },
+    "colorsAvailable": ["black", "white"],
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "black": [
+        "../../../../img/gallery/se/black/b1.webp",
+        "../../../../img/gallery/se/black/b2.webp",
+        "../../../../img/gallery/se/black/b3.webp"
+      ],
+      "white": [
+        "../../../../img/gallery/se/white/w1.webp",
+        "../../../../img/gallery/se/white/w2.webp",
+        "../../../../img/gallery/se/white/w3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A15 Bionic chip",
+    "camera": "Dual-camera system 12MP Main | Ultra Wide",
+    "zoom": "Optical zoom range, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "category": "phones",
+    "productId": "apple-iphone-13-256GB-green",
+    "name": "Apple iPhone 13",
+    "screen": "4.7 Retina HD",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 899,
+    "priceMap": {
+      "256GB": 899,
+      "512GB": 1099,
+      "1TB": 1299
+    },
+    "image": {
+      "green": "../../img/card/13/g.png",
+      "red": "../../img/card/13/r.png"
+    },
+    "color": "green",
+    "hex": {
+      "green": "#266d32",
+      "red": "#b7091d"
+    },
+    "colorsAvailable": ["green", "red"],
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "green": [
+        "../../../../img/gallery/green/g-1.webp",
+        "../../../../img/gallery/green/g-2.webp",
+        "../../../../img/gallery/green/g-3.webp"
+      ],
+      "red": [
+        "../../../../img/gallery/red/r-1.webp",
+        "../../../../img/gallery/red/r-2.webp",
+        "../../../../img/gallery/red/r-3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A15 Bionic chip",
+    "camera": "Dual-camera system 12MP Main | Ultra Wide",
+    "zoom": "Optical zoom range, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "121212123311",
+    "category": "phones",
+    "productId": "apple-iphone-15-pro-256GB-titanium",
+    "name": "Apple iPhone 15 Pro",
+    "screen": "6.7 Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 1299,
+    "priceMap": {
+      "256GB": 1299,
+      "512GB": 1499,
+      "1TB": 1699
+    },
+    "image": {
+      "titanium": "../../img/card/15_pro/ti.jpeg",
+      "blue": "../../img/card/15_pro/tb.webp"
+    },
+    "color": "titanium",
+    "colorsAvailable": ["titanium", "blue"],
+    "hex": {
+      "titanium": "#797982",
+      "blue": "#5B798E"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "titanium": [
+        "../../../../img/gallery/15_pro/titan/t-1.webp",
+        "../../../../img/gallery/15_pro/titan/t-2.webp",
+        "../../../../img/gallery/15_pro/titan/t-3.webp",
+        "../../../../img/gallery/15_pro/titan/t-4.webp"
+      ],
+      "blue": [
+        "../../../../img/gallery/15_pro/blue/tb-1.webp",
+        "../../../../img/gallery/15_pro/blue/tb-2.webp",
+        "../../../../img/gallery/15_pro/blue/tb-3.webp",
+        "../../../../img/gallery/15_pro/blue/tb-4.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A17 Pro chip",
+    "camera": "48MP Main | Ultra Wide | Telephoto",
+    "zoom": "Optical zoom range, Up to 10x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12342342111",
+    "category": "phones",
+    "productId": "apple-iphone-15-256GB-pink",
+    "name": "Apple iPhone 15",
+    "screen": "6.7 Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 1299,
+    "priceMap": {
+      "256GB": 1299,
+      "512GB": 1499,
+      "1TB": 1699
+    },
+    "image": {
+      "pink": "../../img/card/15/1.jpeg"
+    },
+    "color": "pink",
+    "colorsAvailable": ["pink"],
+    "hex": {
+      "pink": "#f8b7cb"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "pink": [
+        "../../../../img/gallery/15/pink/p1.webp",
+        "../../../../img/gallery/15/pink/p2.webp",
+        "../../../../img/gallery/15/pink/p3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A17 Pro chip",
+    "camera": "48MP Main | Ultra Wide | Telephoto",
+    "zoom": "Optical zoom range, Up to 10x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "121345343412311",
+    "category": "phones",
+    "productId": "apple-iphone-14-256GB-purple",
+    "name": "Apple iPhone 14",
+    "screen": "6.7 Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 1299,
+    "priceMap": {
+      "256GB": 1299,
+      "512GB": 1499,
+      "1TB": 1699
+    },
+    "image": {
+      "purple": "../../img/card/14/p.webp"
+    },
+    "color": "purple",
+    "colorsAvailable": ["purple"],
+    "hex": {
+      "purple": "#7b8dff"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "purple": [
+        "../../../../img/gallery/14/purp-1.webp",
+        "../../../../img/gallery/14/purp-2.webp",
+        "../../../../img/gallery/14/purp-3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A17 Pro chip",
+    "camera": "48MP Main | Ultra Wide | Telephoto",
+    "zoom": "Optical zoom range, Up to 10x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "123423412313",
+    "category": "phones",
+    "productId": "apple-iphone-SE-256GB-black",
+    "name": "Apple iPhone 13",
+    "screen": "4.7 Retina HD",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 899,
+    "priceMap": {
+      "256GB": 899,
+      "512GB": 1099,
+      "1TB": 1299
+    },
+    "image": {
+      "black": "../../img/card/se/b.webp",
+      "white": "../../img/card/se/w.webp"
+    },
+    "color": "black",
+    "hex": {
+      "black": "#000",
+      "white": "#f2f2f2"
+    },
+    "colorsAvailable": ["black", "white"],
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "black": [
+        "../../../../img/gallery/se/black/b1.webp",
+        "../../../../img/gallery/se/black/b2.webp",
+        "../../../../img/gallery/se/black/b3.webp"
+      ],
+      "white": [
+        "../../../../img/gallery/se/white/w1.webp",
+        "../../../../img/gallery/se/white/w2.webp",
+        "../../../../img/gallery/se/white/w3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A15 Bionic chip",
+    "camera": "Dual-camera system 12MP Main | Ultra Wide",
+    "zoom": "Optical zoom range, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1345345341",
+    "category": "phones",
+    "productId": "apple-iphone-13-256GB-green",
+    "name": "Apple iPhone 13",
+    "screen": "4.7 Retina HD",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 899,
+    "priceMap": {
+      "256GB": 899,
+      "512GB": 1099,
+      "1TB": 1299
+    },
+    "image": {
+      "green": "../../img/card/13/g.png",
+      "red": "../../img/card/13/r.png"
+    },
+    "color": "green",
+    "hex": {
+      "green": "#266d32",
+      "red": "#b7091d"
+    },
+    "colorsAvailable": ["green", "red"],
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "green": [
+        "../../../../img/gallery/green/g-1.webp",
+        "../../../../img/gallery/green/g-2.webp",
+        "../../../../img/gallery/green/g-3.webp"
+      ],
+      "red": [
+        "../../../../img/gallery/red/r-1.webp",
+        "../../../../img/gallery/red/r-2.webp",
+        "../../../../img/gallery/red/r-3.webp"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A15 Bionic chip",
+    "camera": "Dual-camera system 12MP Main | Ultra Wide",
+    "zoom": "Optical zoom range, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  }
+]

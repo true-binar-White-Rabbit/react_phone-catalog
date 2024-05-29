@@ -1,0 +1,123 @@
+[
+  {
+    "id": "1112",
+    "category": "tablets",
+    "productId": "apple-ipad-256GB-blue",
+    "name": "Apple iPad",
+    "screen": "4.7 Retina HD",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 899,
+    "priceMap": {
+      "256GB": 899,
+      "512GB": 1099,
+      "1TB": 1299
+    },
+    "image": {
+      "blue": "../../img/card/ipad/b.webp",
+      "yellow": "../../img/card/ipad/y.webp"
+    },
+    "color": "blue",
+    "colorsAvailable": ["blue", "yellow"],
+    "hex": {
+      "blue": "#5B798E",
+      "yellow": "#f3e260"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "blue": [
+        "../../../../img/gallery/ipad/blue/b1.jpeg",
+        "../../../../img/gallery/ipad/blue/b2.jpeg",
+        "../../../../img/gallery/ipad/blue/b3.jpeg"
+      ],
+      "yellow": [
+        "../../../../img/gallery/ipad/yellow/y1.jpeg",
+        "../../../../img/gallery/ipad/yellow/y2.jpeg",
+        "../../../../img/gallery/ipad/yellow/y3.jpeg"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A15 Bionic chip",
+    "camera": "Dual-camera system 12MP Main | Ultra Wide",
+    "zoom": "Optical zoom range, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1112332312",
+    "category": "tablets",
+    "productId": "apple-ipad-mini-256GB-pink",
+    "name": "Apple iPad Mini",
+    "screen": "4.7 Retina HD",
+    "capacity": "256GB",
+    "ram": "8GB",
+    "price": 899,
+    "priceMap": {
+      "256GB": 899,
+      "512GB": 1099,
+      "1TB": 1299
+    },
+    "image": {
+      "pink": "../../img/card/ipad_mini/m1.webp"
+    },
+    "color": "pink",
+    "colorsAvailable": ["pink"],
+    "hex": {
+      "pink": "#ecbcb4"
+    },
+    "capacityAvailable": ["256GB", "512GB", "1TB"],
+    "images": {
+      "pink": [
+        "../../../../img/gallery/ipad_mini/m1.jpeg",
+        "../../../../img/gallery/ipad_mini/m2.jpeg",
+        "../../../../img/gallery/ipad_mini/m3.jpeg"
+      ]
+    },
+    "resolution": "2532x1170",
+    "processor": "A15 Bionic chip",
+    "camera": "Dual-camera system 12MP Main | Ultra Wide",
+    "zoom": "Optical zoom range, 2x",
+    "cell": ["GPRS", "EDGE", "WCDMA", "UMTS", "HSPA", "LTE"],
+    "description": [
+      {
+        "title": "And then there was Pro",
+        "text": [
+          "A transformative triple-camera system that adds tons of capability without complexity.",
+          "An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro."
+        ]
+      },
+      {
+        "title": "Camera",
+        "text": [
+          "Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone. Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it."
+        ]
+      },
+      {
+        "title": "Shoot it. Flip it. Zoom it. Crop it. Cut it. Light it. Tweak it. Love it.",
+        "text": [
+          "iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to play with."
+        ]
+      }
+    ]
+  }
+]
